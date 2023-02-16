@@ -478,3 +478,5 @@ $RECYCLE.BIN/
 API/appsettings.json
 API/datingapp.db-wal
 API/datingapp.db-shm
+.idea/.idea.DatingApp/.idea/indexLayout.xml
+.idea/.idea.DatingApp/.idea/vcs.xml
